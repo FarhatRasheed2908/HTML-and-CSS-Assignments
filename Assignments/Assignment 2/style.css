@@ -1,0 +1,52 @@
+body{
+    background-color: gainsboro;
+    display: flex;
+}
+.parent{
+    width: 100%;
+    height: 500px;
+}
+.main{
+    background-color: orange;
+    color: white;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    font-weight:bold;
+    padding-top: 10px;
+}
+.bar{
+    background-color: gray;
+    height: 40px;
+    text-align: center;
+  padding-top: 8px;
+}
+button{
+    width: 170px;
+    height:30px;
+}
+img{
+    height: 80px;
+    width: 150px;
+}
+.image{
+    background-color: white;
+    display: inline-block;
+    width: 30%;
+    height: 250px;
+    text-align: center;
+    margin-left: 20px;
+}
+.end{
+    background-color: orange;
+    color: white;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    font-weight:bold;
+      padding-top: 10px;
+}
+.card{
+    background-color: grey;
+    flex-flow: row wrap;
+}

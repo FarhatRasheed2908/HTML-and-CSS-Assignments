@@ -1,0 +1,19 @@
+table{
+    border:1px,solid,black ;
+}
+td{
+ border:1px,solid,black ;
+}
+th{
+    border:1px,solid,black ;
+}
+h2{
+    background-color:skyblue;
+    color: blue;
+}
+#HCI{
+    color: black;
+}
+.even{
+    color: blue;
+}
